@@ -1,1 +1,0 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a Conway's game component that is initialized with a random game configuration. Add a start / stop button and add the component to the center of the index page. Make it visually appealing and well styled","md5":"dad6ce309f3a68b417d50970a65fb735"}]}
